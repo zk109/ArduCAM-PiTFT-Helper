@@ -1,1 +1,0 @@
-# ArduCAM-PiTFT-Helper
